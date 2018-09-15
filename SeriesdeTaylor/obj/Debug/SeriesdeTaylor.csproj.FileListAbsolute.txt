@@ -1,0 +1,9 @@
+C:\Users\esalazar\Documents\Visual Studio 2017\Projects\SeriesdeTaylor\SeriesdeTaylor\bin\Debug\SeriesdeTaylor.exe
+C:\Users\esalazar\Documents\Visual Studio 2017\Projects\SeriesdeTaylor\SeriesdeTaylor\bin\Debug\SeriesdeTaylor.pdb
+C:\Users\esalazar\Documents\Visual Studio 2017\Projects\SeriesdeTaylor\SeriesdeTaylor\obj\Debug\SeriesdeTaylor.csprojResolveAssemblyReference.cache
+C:\Users\esalazar\Documents\Visual Studio 2017\Projects\SeriesdeTaylor\SeriesdeTaylor\obj\Debug\SeriesdeTaylor.Form1.resources
+C:\Users\esalazar\Documents\Visual Studio 2017\Projects\SeriesdeTaylor\SeriesdeTaylor\obj\Debug\SeriesdeTaylor.Properties.Resources.resources
+C:\Users\esalazar\Documents\Visual Studio 2017\Projects\SeriesdeTaylor\SeriesdeTaylor\obj\Debug\SeriesdeTaylor.csproj.GenerateResource.Cache
+C:\Users\esalazar\Documents\Visual Studio 2017\Projects\SeriesdeTaylor\SeriesdeTaylor\obj\Debug\SeriesdeTaylor.csproj.CoreCompileInputs.cache
+C:\Users\esalazar\Documents\Visual Studio 2017\Projects\SeriesdeTaylor\SeriesdeTaylor\obj\Debug\SeriesdeTaylor.exe
+C:\Users\esalazar\Documents\Visual Studio 2017\Projects\SeriesdeTaylor\SeriesdeTaylor\obj\Debug\SeriesdeTaylor.pdb
